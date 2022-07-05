@@ -127,9 +127,9 @@ th, td {
   font-size: 12px;
   padding: 15px;
   width: 100%;
-  position: fixed;
+  /*position: fixed;
   left: 0;
-  bottom: 0;
+  bottom: 0;*/
   padding: 20px;
   height: 75px;
   margin-top: 0;
